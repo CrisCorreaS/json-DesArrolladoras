@@ -1,0 +1,347 @@
+{
+  "Lista de supermercados": {
+    "Lidl": {
+      "geolocalizacion": {
+        "N": [56, 31, 42],
+        "E": [5, 9, 20]
+      },
+      "Productos por rutina": {
+        "Desayuno": {
+          "Leche": {
+            "descripcion": "Leche desnatada",
+            "marca": "Marca blanca",
+            "unidadMedida": "Litros",
+            "medida": 1,
+            "unidades": 4,
+            "precioMedida": 0.70,
+            "precio": 2.80,
+            "precioUnidades": 0.70,
+            "oferta": {
+              "tipo": "2x1",
+              "desde": "2023-06-15",
+              "hasta": "2023-06-30"
+            }
+          },
+          "Cereales": {
+            "descripcion": "Cereales de avena",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 500,
+            "unidades": 1,
+            "precioMedida": 0.08,
+            "precio": 0.99,
+            "precioUnidades": 0.99,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        },
+        "Almuerzo": {
+          "Pasta": {
+            "descripcion": "Macarrones",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 500,
+            "unidades": 1,
+            "precioMedida": 0.02,
+            "precio": 0.99,
+            "precioUnidades": 0.99,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          },
+          "Salsa": {
+            "descripcion": "Salsa de tomate",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 200,
+            "unidades": 1,
+            "precioMedida": 0.04,
+            "precio": 0.80,
+            "precioUnidades": 0.80,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        }
+      }
+    },
+    "Mercadona": {
+      "geolocalizacion": {
+        "N": [56, 28, 50],
+        "E": [5, 13, 44]
+      },
+      "Productos por rutina": {
+        "Brunch": {
+          "Pan": {
+            "descripcion": "Pan de Semillas",
+            "marca": "Hacendado",
+            "unidadMedida": "Gramos",
+            "medida": 500,
+            "unidades": 14,
+            "precioMedida": 0.05,
+            "precio": 2.27,
+            "precioUnidades": 0.16,
+            "oferta": {
+              "tipo": "3x2",
+              "desde": "2023-06-14",
+              "hasta": "2023-06-20"
+            }
+          },
+          "Pate": {
+            "descripcion": "Pate de Salmon",
+            "marca": "Hacendado",
+            "unidadMedida": "Gramos",
+            "medida": 150,
+            "unidades": 2,
+            "precioMedida": 0.02,
+            "precio": 3.35,
+            "precioUnidades": 1.25,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        }
+      }
+    },
+    "Gadis": {
+      "geolocalizacion": {
+        "N": [56, 32, 10],
+        "E": [5, 10, 44]
+      },
+      "Productos por rutina": {
+        "Desayuno": {
+          "Galletas": {
+            "descripcion": "Galletas Oreo",
+            "marca": "Oreo",
+            "unidadMedida": "Gramos",
+            "medida": 300,
+            "unidades": 16,
+            "precioMedida": 0.01,
+            "precio": 3.30,
+            "precioUnidades": 0.21,
+            "oferta": {
+              "tipo": "50% en 2a unidad",
+              "desde": "2023-06-17",
+              "hasta": "Fin de existencias"
+            }
+          },
+          "Kefir": {
+            "descripcion": "Kefir de Arandanos",
+            "marca": "Xanceda",
+            "unidadMedida": "Gramos",
+            "medida": 400,
+            "unidades": 8,
+            "precioMedida": 0.01,
+            "precio": 3.05,
+            "precioUnidades": 0.13,
+            "oferta": {
+              "tipo": "2x1",
+              "desde": "2023-06-15",
+              "hasta": "2023-06-30"
+            }
+          },
+          "Cereales": {
+            "descripcion": "Cereales con frutos del bosque",
+            "marca": "Kellogg's",
+            "unidadMedida": "Gramos",
+            "medida": 500,
+            "unidades": "2",
+            "precioMedida": 0.09,
+            "precio": 4.75,
+            "precioUnidades": "2.35",
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        },
+        "Comida": {
+          "Pimientos": {
+            "descripcion": "Pimientos de Padron",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 150,
+            "unidades": 4,
+            "precioMedida": 0.01,
+            "precio": 1.50,
+            "precioUnidades": 0.38,
+            "oferta": {
+              "tipo": "30%",
+              "desde": "2023-06-11",
+              "hasta": "2023-06-23"
+            }
+          },
+          "Agua": {
+            "descripcion": "Garrafa de agua",
+            "marca": "Cabreiroa",
+            "unidadMedida": "Litros",
+            "medida": 5,
+            "unidades": 1,
+            "precioMedida": 0.20,
+            "precio": 1.00,
+            "precioUnidades": 1.00,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        }
+      }
+    },
+    "Carrefour": {
+      "geolocalizacion": {
+        "N": [56, 29, 15],
+        "E": [5, 12, 50]
+      },
+      "Productos por rutina": {
+        "Desayuno": {
+          "Café": {
+            "descripcion": "Café molido",
+            "marca": "Marcilla",
+            "unidadMedida": "Gramos",
+            "medida": 250,
+            "unidades": 1,
+            "precioMedida": 0.12,
+            "precio": 2.29,
+            "precioUnidades": 2.29,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          },
+          "Tostadas": {
+            "descripcion": "Tostadas integrales",
+            "marca": "Panrico",
+            "unidadMedida": "Gramos",
+            "medida": 250,
+            "unidades": 1,
+            "precioMedida": 0.06,
+            "precio": 1.49,
+            "precioUnidades": 1.49,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        },
+        "Almuerzo": {
+          "Pollo": {
+            "descripcion": "Pollo entero",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 1000,
+            "unidades": 1,
+            "precioMedida": 0.35,
+            "precio": 3.50,
+            "precioUnidades": 3.50,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          },
+          "Patatas": {
+            "descripcion": "Patatas fritas",
+            "marca": "Lay's",
+            "unidadMedida": "Gramos",
+            "medida": 170,
+            "unidades": 1,
+            "precioMedida": 0.04,
+            "precio": 0.89,
+            "precioUnidades": 0.89,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        }
+      }
+    },
+    "Eroski": {
+      "geolocalizacion": {
+        "N": [56, 27, 5],
+        "E": [5, 15, 30]
+      },
+      "Productos por rutina": {
+        "Cena": {
+          "Pescado": {
+            "descripcion": "Lomos de salmón",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 200,
+            "unidades": 2,
+            "precioMedida": 0.75,
+            "precio": 4.50,
+            "precioUnidades": 1.13,
+            "oferta": {
+              "tipo": "50% de descuento",
+              "desde": "2023-04-05",
+              "hasta": "2023-04-10"
+            }
+          },
+          "Ensalada": {
+            "descripcion": "Ensalada mixta",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 200,
+            "unidades": 1,
+            "precioMedida": 0.03,
+            "precio": 0.89,
+            "precioUnidades": 0.89,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        },
+        "Merienda": {
+          "Fruta": {
+            "descripcion": "Manzanas",
+            "marca": "Marca blanca",
+            "unidadMedida": "Kilos",
+            "medida": 1,
+            "unidades": 1,
+            "precioMedida": 0.90,
+            "precio": 0.90,
+            "precioUnidades": 0.90,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          },
+          "Frutos secos": {
+            "descripcion": "Mezcla de frutos secos",
+            "marca": "Marca blanca",
+            "unidadMedida": "Gramos",
+            "medida": 250,
+            "unidades": 1,
+            "precioMedida": 0.12,
+            "precio": 2.49,
+            "precioUnidades": 2.49,
+            "oferta": {
+              "tipo": "Sin oferta",
+              "desde": "",
+              "hasta": ""
+            }
+          }
+        }
+      }
+    }
+  }
+}
