@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaDeSupermercados>
+    <Lidl>
+        <geolocalizacion>
+            <N>56, 31, 42</N>
+            <E>5, 9, 20</E>
+        </geolocalizacion>
+        <ProductosPorRutina>
+            <Desayuno>
+                <Leche>
+                    <descripcion>Leche desnatada</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Litros</unidadMedida>
+                    <medida>1</medida>
+                    <unidades>4</unidades>
+                    <precioMedida>0.70</precioMedida>
+                    <precio>2.80</precio>
+                    <precioUnidades>0.70</precioUnidades>
+                    <oferta>
+                        <tipo>2x1</tipo>
+                        <desde>2023-06-15</desde>
+                        <hasta>2023-06-30</hasta>
+                    </oferta>
+                </Leche>
+                <Cereales>
+                    <descripcion>Cereales de avena</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>500</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.08</precioMedida>
+                    <precio>0.99</precio>
+                    <precioUnidades>0.99</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Cereales>
+            </Desayuno>
+            <Almuerzo>
+                <Pasta>
+                    <descripcion>Macarrones</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>500</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.02</precioMedida>
+                    <precio>0.99</precio>
+                    <precioUnidades>0.99</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Pasta>
+                <Salsa>
+                    <descripcion>Salsa de tomate</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>200</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.04</precioMedida>
+                    <precio>0.80</precio>
+                    <precioUnidades>0.80</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Salsa>
+            </Almuerzo>
+        </ProductosPorRutina>
+    </Lidl>
+    <Mercadona>
+        <geolocalizacion>
+            <N>56 28 50</N>
+            <E>5 13 44</E>
+        </geolocalizacion>
+        <ProductosPorRutina>
+            <Brunch>
+                <Pan>
+                    <descripcion>Pan de Semillas</descripcion>
+                    <marca>Hacendado</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>500</medida>
+                    <unidades>14</unidades>
+                    <precioMedida>0.05</precioMedida>
+                    <precio>2.27</precio>
+                    <precioUnidades>0.16</precioUnidades>
+                    <oferta>
+                        <tipo>3x2</tipo>
+                        <desde>2023-06-14</desde>
+                        <hasta>2023-06-20</hasta>
+                    </oferta>
+                </Pan>
+                <Pate>
+                    <descripcion>Pate de Salmon</descripcion>
+                    <marca>Hacendado</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>150</medida>
+                    <unidades>2</unidades>
+                    <precioMedida>0.02</precioMedida>
+                    <precio>3.35</precio>
+                    <precioUnidades>1.25</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Pate>
+            </Brunch>
+        </ProductosPorRutina>
+    </Mercadona>
+    <Gadis>
+        <geolocalizacion>
+            <N>56 32 10</N>
+            <E>5 10 44</E>
+        </geolocalizacion>
+        <ProductosPorRutina>
+            <Desayuno>
+                <Galletas>
+                    <descripcion>Galletas Oreo</descripcion>
+                    <marca>Oreo</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>300</medida>
+                    <unidades>16</unidades>
+                    <precioMedida>0.01</precioMedida>
+                    <precio>3.30</precio>
+                    <precioUnidades>0.21</precioUnidades>
+                    <oferta>
+                        <tipo>50% en 2a unidad</tipo>
+                        <desde>2023-06-17</desde>
+                        <hasta>Fin de existencias</hasta>
+                    </oferta>
+                </Galletas>
+                <Kefir>
+                    <descripcion>Kefir de Arandanos</descripcion>
+                    <marca>Xanceda</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>400</medida>
+                    <unidades>8</unidades>
+                    <precioMedida>0.01</precioMedida>
+                    <precio>3.05</precio>
+                    <precioUnidades>0.13</precioUnidades>
+                    <oferta>
+                        <tipo>2x1</tipo>
+                        <desde>2023-06-15</desde>
+                        <hasta>2023-06-30</hasta>
+                    </oferta>
+                </Kefir>
+                <Cereales>
+                    <descripcion>Cereales con frutos del bosque</descripcion>
+                    <marca>Kellogg's</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>500</medida>
+                    <unidades>2</unidades>
+                    <precioMedida>0.09</precioMedida>
+                    <precio>4.75</precio>
+                    <precioUnidades>2.35</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Cereales>
+            </Desayuno>
+            <Comida>
+                <Pimientos>
+                    <descripcion>Pimientos de Padron</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>150</medida>
+                    <unidades>4</unidades>
+                    <precioMedida>0.01</precioMedida>
+                    <precio>1.50</precio>
+                    <precioUnidades>0.38</precioUnidades>
+                    <oferta>
+                        <tipo>30%</tipo>
+                        <desde>2023-06-11</desde>
+                        <hasta>2023-06-23</hasta>
+                    </oferta>
+                </Pimientos>
+                <Agua>
+                    <descripcion>Garrafa de agua</descripcion>
+                    <marca>Cabreiroa</marca>
+                    <unidadMedida>Litros</unidadMedida>
+                    <medida>5</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.20</precioMedida>
+                    <precio>1.00</precio>
+                    <precioUnidades>1.00</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Agua>
+            </Comida>
+        </ProductosPorRutina>
+    </Gadis>
+    <Carrefour>
+        <geolocalizacion>
+            <N>56 29 15</N>
+            <E>5 12 50</E>
+        </geolocalizacion>
+        <ProductosPorRutina>
+            <Desayuno>
+                <Cafe>
+                    <descripcion>Cafe molido</descripcion>
+                    <marca>Marcilla</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>250</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.12</precioMedida>
+                    <precio>2.29</precio>
+                    <precioUnidades>2.29</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Cafe>
+                <Tostadas>
+                    <descripcion>Tostadas integrales</descripcion>
+                    <marca>Panrico</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>250</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.06</precioMedida>
+                    <precio>1.49</precio>
+                    <precioUnidades>1.49</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Tostadas>
+            </Desayuno>
+            <Almuerzo>
+                <Pollo>
+                    <descripcion>Pollo entero</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>1000</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.35</precioMedida>
+                    <precio>3.50</precio>
+                    <precioUnidades>3.50</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Pollo>
+                <Patatas>
+                    <descripcion>Patatas fritas</descripcion>
+                    <marca>Lay's</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>170</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.04</precioMedida>
+                    <precio>0.89</precio>
+                    <precioUnidades>0.89</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Patatas>
+            </Almuerzo>
+        </ProductosPorRutina>
+    </Carrefour>
+    <Eroski>
+        <geolocalizacion>
+            <N>56 27 5</N>
+            <E>5 15 30</E>
+        </geolocalizacion>
+        <ProductosPorRutina>
+            <Cena>
+                <Pescado>
+                    <descripcion>Lomos de salmón</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>200</medida>
+                    <unidades>2</unidades>
+                    <precioMedida>0.75</precioMedida>
+                    <precio>4.50</precio>
+                    <precioUnidades>1.13</precioUnidades>
+                    <oferta>
+                        <tipo>50% de descuento</tipo>
+                        <desde>2023-04-05</desde>
+                        <hasta>2023-04-10</hasta>
+                    </oferta>
+                </Pescado>
+                <Ensalada>
+                    <descripcion>Ensalada mixta</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Gramos</unidadMedida>
+                    <medida>200</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.03</precioMedida>
+                    <precio>0.89</precio>
+                    <precioUnidades>0.89</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Ensalada>
+            </Cena>
+            <Merienda>
+                <Fruta>
+                    <descripcion>Manzanas</descripcion>
+                    <marca>Marca blanca</marca>
+                    <unidadMedida>Kilos</unidadMedida>
+                    <medida>1</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.90</precioMedida>
+                    <precio>0.90</precio>
+                    <precioUnidades>0.90</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Fruta>
+                <Zumo>
+                    <descripcion>Zumo de naranja</descripcion>
+                    <marca>Zumería</marca>
+                    <unidadMedida>Litros</unidadMedida>
+                    <medida>1</medida>
+                    <unidades>1</unidades>
+                    <precioMedida>0.50</precioMedida>
+                    <precio>1.20</precio>
+                    <precioUnidades>1.20</precioUnidades>
+                    <oferta>
+                        <tipo>Sin oferta</tipo>
+                        <desde></desde>
+                        <hasta></hasta>
+                    </oferta>
+                </Zumo>
+            </Merienda>
+        </ProductosPorRutina>
+    </Eroski>
+</ListaDeSupermercados>
