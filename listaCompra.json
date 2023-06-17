@@ -206,8 +206,8 @@
       },
       "Productos por rutina": {
         "Desayuno": {
-          "Café": {
-            "descripcion": "Café molido",
+          "Cafe": {
+            "descripcion": "Cafe molido",
             "marca": "Marcilla",
             "unidadMedida": "Gramos",
             "medida": 250,
