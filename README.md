@@ -1,4 +1,6 @@
 # json-DesArrolladoras
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
+<br/>
 Este repositorio contiene el código fuente de una lista de compras de supermercados en formato JSON y XML. Fue desarrollado como parte del ejercicio de laboratorio del curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras para ayudar a un cliente a estructurar su lista de compras y preparar su futura aplicación web. 
 
 ### Uso
